@@ -1,7 +1,7 @@
 """
 This module contains functions for calculating the position
 of the sun at a given date and time.
-
+Created for NST 1 AST Observation project
 Author: Alan Xu
 """
 import Observer
